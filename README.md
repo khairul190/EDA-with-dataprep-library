@@ -7,3 +7,5 @@ DataPrep.Clean aims to provide a large number of functions with a unified interf
 DataPrep.Clean aims to provide a large number of functions with a unified interface for cleaning and standardizing data of various semantic types in a Pandas or Dask DataFrame.
 
 https://dataprep.ai/
+
+https://colab.research.google.com/drive/1jC7PUaYDGlq-dELOYbxJcq_IAYFxJhyF?usp=sharing
